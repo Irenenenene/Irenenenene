@@ -1,6 +1,6 @@
-<h3 style="font-weight: lighter ; font-size: 1.6rem; line-height: 1.6;">
+<h2 style="font-weight: lighter ; font-size: 1.6rem; line-height: 1.6;">
 ¡Hola Hola! Soy <strong>Irene Sánchez Mora</strong>, artista e investigadora. Trabajo en proyectos artísticos que utilizan como medio la tecnología desde hace ya más de cinco años. Mis códigos sucísimos (no soy programadora) los suelo subir aquí, porque, aunque marranos, funcionan <strong>¡kliiiiiing!</strong> ₊˚⊹☆
-</h3>
+</h2>
 
 
 ## Tecnologías
