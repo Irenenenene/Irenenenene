@@ -2,7 +2,15 @@
 
 ---
 ## Tecnologías
-<span style="background-color:#f2f2f2; padding:6px 12px; border-radius:8px; margin-right:6px;"> HTML </span> <span style="background-color:#f2f2f2; padding:6px 12px; border-radius:8px; margin-right:6px;"> CSS </span> <span style="background-color:#f2f2f2; padding:6px 12px; border-radius:8px; margin-right:6px;"> JavaScript </span> <span style="background-color:#f2f2f2; padding:6px 12px; border-radius:8px; margin-right:6px;"> Processing </span> <span style="background-color:#f2f2f2; padding:6px 12px; border-radius:8px; margin-right:6px;"> OpenFrameworks </span> <span style="background-color:#f2f2f2; padding:6px 12px; border-radius:8px; margin-right:6px;"> Arduino
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Processing](https://img.shields.io/badge/Processing-006699?style=flat&logo=processingfoundation&logoColor=white)
+![OpenFrameworks](https://img.shields.io/badge/OpenFrameworks-000000?style=flat)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+
 
 
 ---
