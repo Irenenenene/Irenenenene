@@ -37,16 +37,24 @@ He sido **profesora colaboradora** en la **Universidad Politécnica de Valencia*
       <a href="https://github.com/Irenenenene/promtearpaper">https://github.com/Irenenenene/promtearpaper</a>
     </td>
   </tr>
+<tr>
+  <td width="200">
+    <img src="https://freight.cargo.site/w/900/q/75/i/C1964412256265320339358892213488/Sin-ttulo.png" width="200">
+  </td>
+  <td>
+    <strong>Google Privacity Party</strong><br>
+    <a href="https://irsanmo1.upv.edu.es/policy.html">https://irsanmo1.upv.edu.es/policy.html</a>
+  </td>
+</tr>
+<tr>
+  <td width="200">
+    <img src="https://ptrcia.github.io/porfolio/images/Evictiont.png" width="200">
+  </td>
+  <td>
+    <strong>Apicgames</strong><br>
+    <a href="https://github.com/Irenenenene/Apicgames">https://github.com/Irenenenene/Apicgames</a>
+  </td>
+</tr>
 
-  <tr>
-    <td width="200">
-      <img src="https://raw.githubusercontent.com/Irenenenene/Apicgames/main/Assets/Textures/render1_plano3.png" width="200">
-    </td>
-    <td>
-      <strong>Apicgames</strong><br>
-      <a href="https://github.com/Irenenenene/Apicgames">https://github.com/Irenenenene/Apicgames</a>
-    </td>
-  </tr>
-</table>
 
 
