@@ -1,16 +1,31 @@
-## Hi there 👋
+# ¡Hola Hola! 👩🏻‍🍳💻
 
-<!--
-**Irenenenene/Irenenenene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Irene Sánchez Mora**, artista e investigadora. Trabajo en proyectos artísticos que utilizan como medio la tecnología desde hace ya más de cinco años.  
+Soy fiel defensora del **front‑end** como una disciplina para las más divertidas, aunque también coqueteo con otros lenguajes.
 
-Here are some ideas to get you started:
+Mis códigos sucísimos (porque no soy programadora) los suelo subir aquí, porque, aunque marranos, funcionan **¡kliiiiiing!** ₊˚⊹☆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologías
+
+- HTML  
+- CSS  
+- JavaScript  
+- Processing  
+- OpenFrameworks  
+- Arduino  
+
+---
+
+## 🧪 Experiencia
+
+He sido **profesora colaboradora** en la **Universidad Politécnica de Valencia**, dentro de la asignatura *Medios digitales e interactivos*, en la que se trabaja en tiempo real con **Mosaic**:  
+https://github.com/d3cod3/Mosaic
+
+---
+
+## 🌙 Algunos proyectos
+
+- **Poemario Alien**  
+  https://poemarioalien.superhi.hosting/index.html
