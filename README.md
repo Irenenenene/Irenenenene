@@ -17,3 +17,36 @@ He sido **profesora colaboradora** en la **Universidad Politécnica de Valencia*
 
 ## Algunos proyectos
 
+<table>
+  <tr>
+    <td width="200">
+      <img src="https://poemarioalien.superhi.hosting/front.png" width="200">
+    </td>
+    <td>
+      <strong>Poemario Alien</strong><br>
+      <a href="https://poemarioalien.superhi.hosting/index.html">https://poemarioalien.superhi.hosting/index.html</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200">
+      <img src="https://miguelrangil.com/works/promptearunpaper_main/public/img/titulo_web_dos.png" width="200">
+    </td>
+    <td>
+      <strong>Promptear un Paper</strong><br>
+      <a href="https://github.com/Irenenenene/promtearpaper">https://github.com/Irenenenene/promtearpaper</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="200">
+      <img src="https://raw.githubusercontent.com/Irenenenene/Apicgames/main/Assets/Textures/render1_plano3.png" width="200">
+    </td>
+    <td>
+      <strong>Apicgames</strong><br>
+      <a href="https://github.com/Irenenenene/Apicgames">https://github.com/Irenenenene/Apicgames</a>
+    </td>
+  </tr>
+</table>
+
+
