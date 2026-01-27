@@ -15,7 +15,7 @@
 
 ## Experiencia
 
-He sido **profesora colaboradora** en la **Universidad Politécnica de Valencia**, dentro de la asignatura *Medios digitales e interactivos*, en la que se trabaja con programación en tiempo real usando [**Mosaic**](https://github.com/d3cod3/Mosaic).
+He sido **profesora colaboradora** en la **Universidad Politécnica de Valencia**, dentro de la asignatura *Medios digitales e interactivos*, en la que se trabaja con programación visual en tiempo real usando [**Mosaic**](https://github.com/d3cod3/Mosaic).
 
 
 ## Algunos proyectos
