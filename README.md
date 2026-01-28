@@ -2,8 +2,6 @@
 ¡Hola Hola! Soy <strong>Irene Sánchez Mora</strong>, artista e investigadora. Trabajo en proyectos artísticos que utilizan como medio la tecnología desde hace ya más de cinco años. Mis códigos sucísimos (no soy programadora) los suelo subir aquí, porque, aunque marranos, funcionan <strong>¡kliiiiiing!</strong> ₊˚⊹☆
 </h2>
 
-
-## Tecnologías
 ## Tecnologías
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
