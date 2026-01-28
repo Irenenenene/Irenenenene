@@ -4,13 +4,14 @@
 
 
 ## Tecnologías
-
-![HTML](https://img.shields.io/badge/HTML-ff6a3c?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3fa9f5?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffe873?style=flat&logo=javascript&logoColor=000)
-![Processing](https://img.shields.io/badge/Processing-4da6ff?style=flat&logo=processingfoundation&logoColor=white)
-![OpenFrameworks](https://img.shields.io/badge/OpenFrameworks-444444?style=flat)
-![Arduino](https://img.shields.io/badge/Arduino-33c4b3?style=flat&logo=arduino&logoColor=white)
+## Tecnologías
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
+![Processing](https://img.shields.io/badge/Processing-4da6ff?style=plastic&logo=processingfoundation&logoColor=white)
+![OpenFrameworks](https://img.shields.io/badge/OpenFrameworks-444444?style=plastic&logo)
+![Arduino](https://img.shields.io/badge/Arduino-33c4b3?style=plastic&logo=arduino&logoColor=white)
 
 
 ## Experiencia
